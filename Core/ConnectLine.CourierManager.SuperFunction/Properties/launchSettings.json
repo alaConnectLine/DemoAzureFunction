@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ConnectLine.CourierManager.SuperFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7045",
+      "launchBrowser": false
+    }
+  }
+}
