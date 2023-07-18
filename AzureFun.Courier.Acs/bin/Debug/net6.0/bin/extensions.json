@@ -1,0 +1,5 @@
+{
+  "extensions":[
+    { "name": "Startup", "typeName":"AzureFun.Courier.Acs.Startup, AzureFun.Courier.Acs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\bin\Debug\net6.0\CommonArea.deps.json
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\bin\Debug\net6.0\CommonArea.dll
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\bin\Debug\net6.0\CommonArea.pdb
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\obj\Debug\net6.0\CommonArea.csproj.AssemblyReference.cache
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\obj\Debug\net6.0\CommonArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\obj\Debug\net6.0\CommonArea.AssemblyInfoInputs.cache
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\obj\Debug\net6.0\CommonArea.AssemblyInfo.cs
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\obj\Debug\net6.0\CommonArea.csproj.CoreCompileInputs.cache
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\obj\Debug\net6.0\CommonArea.dll
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\obj\Debug\net6.0\refint\CommonArea.dll
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\obj\Debug\net6.0\CommonArea.pdb
+C:\Cloud Programming\Azure Functions\HttpTrigger\Courier\ConnectLine.Courier.AzureFun\CommonArea\obj\Debug\net6.0\ref\CommonArea.dll
